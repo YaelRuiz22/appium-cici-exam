@@ -1,0 +1,8 @@
+com\qa\utils\DriverManager.class
+com\qa\utils\OptionsManager.class
+com\qa\utils\ServerManager.class
+com\qa\utils\PropertyManager.class
+com\qa\listeners\TestListener.class
+com\qa\utils\VideoManager.class
+com\qa\utils\ScreenshotManager.class
+com\qa\utils\TestUtils.class

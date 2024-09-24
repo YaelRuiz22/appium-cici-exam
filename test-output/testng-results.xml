@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is the sample screenshot from validateBtn1]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn12024-09-23-17-55-40.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn12024-09-23-17-55-40.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateBtn2]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn22024-09-23-17-55-40.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn22024-09-23-17-55-40.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateBtn3]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn32024-09-23-17-55-41.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn32024-09-23-17-55-41.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateEnableActionsText]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableActionsText2024-09-23-17-55-41.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableActionsText2024-09-23-17-55-41.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateEnableRevealText]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableRevealText2024-09-23-17-55-42.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableRevealText2024-09-23-17-55-42.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateHamburgerMenu]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateHamburgerMenu2024-09-23-17-55-42.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateHamburgerMenu2024-09-23-17-55-42.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateSlowMotionText]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateSlowMotionText2024-09-23-17-55-43.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateSlowMotionText2024-09-23-17-55-43.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateIfRevealAndActionAreChecked]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateIfRevealAndActionAreChecked2024-09-23-17-55-43.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateIfRevealAndActionAreChecked2024-09-23-17-55-43.png' height='100' + width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot from validateAfterChangingColor]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateAfterChangingColor2024-09-23-17-55-46.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateAfterChangingColor2024-09-23-17-55-46.png' height='100' + width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-23T17:55:18 CST" name="Suite" finished-at="2024-09-23T17:55:48 CST" duration-ms="29885">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T17:55:18 CST" name="Test" finished-at="2024-09-23T17:55:48 CST" duration-ms="29885">
+      <class name="com.qa.test.TestCase">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:18 CST" name="beforeClass" finished-at="2024-09-23T17:55:38 CST" duration-ms="19910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="validateBtn1()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:38 CST" name="validateBtn1" finished-at="2024-09-23T17:55:39 CST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBtn1 -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:39 CST" name="afterMethod" finished-at="2024-09-23T17:55:40 CST" duration-ms="406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateBtn1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateBtn1]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn12024-09-23-17-55-40.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn12024-09-23-17-55-40.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateBtn2()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:40 CST" name="validateBtn2" finished-at="2024-09-23T17:55:40 CST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBtn2 -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:40 CST" name="afterMethod" finished-at="2024-09-23T17:55:40 CST" duration-ms="396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateBtn2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateBtn2]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn22024-09-23-17-55-40.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn22024-09-23-17-55-40.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateBtn3()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:40 CST" name="validateBtn3" finished-at="2024-09-23T17:55:40 CST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBtn3 -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:40 CST" name="afterMethod" finished-at="2024-09-23T17:55:41 CST" duration-ms="317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateBtn3()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateBtn3]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn32024-09-23-17-55-41.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateBtn32024-09-23-17-55-41.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateEnableActionsText()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:41 CST" name="validateEnableActionsText" finished-at="2024-09-23T17:55:41 CST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEnableActionsText -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:41 CST" name="afterMethod" finished-at="2024-09-23T17:55:41 CST" duration-ms="426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateEnableActionsText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateEnableActionsText]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableActionsText2024-09-23-17-55-41.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableActionsText2024-09-23-17-55-41.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateEnableRevealText()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:41 CST" name="validateEnableRevealText" finished-at="2024-09-23T17:55:41 CST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEnableRevealText -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:41 CST" name="afterMethod" finished-at="2024-09-23T17:55:42 CST" duration-ms="528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateEnableRevealText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateEnableRevealText]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableRevealText2024-09-23-17-55-42.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateEnableRevealText2024-09-23-17-55-42.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateHamburgerMenu()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:42 CST" name="validateHamburgerMenu" finished-at="2024-09-23T17:55:42 CST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHamburgerMenu -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:42 CST" name="afterMethod" finished-at="2024-09-23T17:55:42 CST" duration-ms="365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateHamburgerMenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateHamburgerMenu]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateHamburgerMenu2024-09-23-17-55-42.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateHamburgerMenu2024-09-23-17-55-42.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateSlowMotionText()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:42 CST" name="validateSlowMotionText" finished-at="2024-09-23T17:55:42 CST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSlowMotionText -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:42 CST" name="afterMethod" finished-at="2024-09-23T17:55:43 CST" duration-ms="376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateSlowMotionText()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateSlowMotionText]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateSlowMotionText2024-09-23-17-55-43.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateSlowMotionText2024-09-23-17-55-43.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateIfRevealAndActionAreChecked()[pri:1, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:43 CST" name="validateIfRevealAndActionAreChecked" finished-at="2024-09-23T17:55:43 CST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIfRevealAndActionAreChecked -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:43 CST" name="afterMethod" finished-at="2024-09-23T17:55:43 CST" duration-ms="309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateIfRevealAndActionAreChecked()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateIfRevealAndActionAreChecked]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateIfRevealAndActionAreChecked2024-09-23-17-55-43.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateIfRevealAndActionAreChecked2024-09-23-17-55-43.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="validateAfterChangingColor()[pri:2, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:43 CST" name="validateAfterChangingColor" finished-at="2024-09-23T17:55:45 CST" duration-ms="1446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAfterChangingColor -->
+        <test-method is-config="true" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:45 CST" name="afterMethod" finished-at="2024-09-23T17:55:46 CST" duration-ms="700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.TestCase.validateAfterChangingColor()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot from validateAfterChangingColor]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateAfterChangingColor2024-09-23-17-55-46.png'> <img src='C:\Users\yruizsanchez\Workspaces\Appium-for-begginer\Week2TestingTest\Screenshots\emulator-5554_Pixel_5_API_31\2024-09-23-17-55-37\\validateAfterChangingColor2024-09-23-17-55-46.png' height='100' + width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.test.TestCase@15bbf42f]" started-at="2024-09-23T17:55:46 CST" name="afterClass" finished-at="2024-09-23T17:55:48 CST" duration-ms="2782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.test.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
